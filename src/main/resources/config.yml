@@ -1,0 +1,10 @@
+messages:
+  cmd-need-player: "<red>Du musst ein Spieler sein um diesen Befehl ausführen zu können!"
+  missing-permission: "<red>Dazu fehlen dir die Rechte"
+
+  simple-command-feedback: "<gray>Das ist ein einfacher Befehl mit <aqua>%s</aqua> argumenten"
+
+permissions:
+  commands:
+    simple:
+      - simple.command.simple

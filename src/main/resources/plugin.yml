@@ -1,0 +1,13 @@
+name: SimplePlugin
+description: A Simple Plugin
+author: fluffy
+version: 1.0
+api-version: 1.21
+main: de.fluffy.simple.SimplePlugin
+commands:
+  simple:
+    permission: simple.command.simple
+    description: A simple command
+    aliases:
+      - simpl
+    usage: /simple <...>
