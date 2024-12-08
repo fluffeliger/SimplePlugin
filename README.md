@@ -4,14 +4,12 @@ A simple plugin
 
 ## Commands
 
----
 ### `/simple <...>`
 
 This command throws you in the air!
 
 ## Config
 
----
 You can configure the permission for the commands and also the return messages!
 The default Config looks like this:
 
