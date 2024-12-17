@@ -1,3 +1,7 @@
+/*
+ * Programmed with <3 by fluffy
+ */
+
 package de.fluffy.simple;
 
 import de.fluffy.simple.commands.SimpleCommand;

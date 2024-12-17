@@ -1,3 +1,7 @@
+/*
+ * Programmed with <3 by fluffy
+ */
+
 package de.fluffy.simple;
 
 import net.kyori.adventure.text.format.TextDecoration;

@@ -1,3 +1,7 @@
+/*
+ * Programmed with <3 by fluffy
+ */
+
 package de.fluffy.simple.commands;
 
 import de.fluffy.simple.ConfigPermissionHandler;
